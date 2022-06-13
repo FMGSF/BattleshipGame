@@ -1,0 +1,4 @@
+numpy==1.21.2
+random
+time
+re==2.2.1
